@@ -62,4 +62,4 @@ Load data into the database:
 Call the data loading function with the prepared DataFrame.
 Bonus: Enhance the pipeline with error handling and logging capabilities.
 
-This ETL pipline extract, clean and load the data to SQlite Database 
+This ETL pipeline extract, clean and load the data to SQlite Database 
